@@ -1,3 +1,3 @@
-# Gamificacao3
+# Gamificacao
 
-Atividade referente a terceira gamificação
+Atividade referente a gamificação
